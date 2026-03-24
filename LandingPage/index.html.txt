@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar">
+            <h1 class="logo">MyProduct</h1>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Build Your Dream Website</h2>
+            <p>Simple, fast and modern solution for your business.</p>
+            <a href="#" class="btn">Get Started</a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <h2>Our Features</h2>
+        <div class="feature-container">
+            <div class="card">
+                <h3>Fast</h3>
+                <p>Lightning fast performance for better experience.</p>
+            </div>
+            <div class="card">
+                <h3>Responsive</h3>
+                <p>Looks great on all devices and screen sizes.</p>
+            </div>
+            <div class="card">
+                <h3>Easy to Use</h3>
+                <p>Simple design anyone can understand easily.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 MyProduct. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
